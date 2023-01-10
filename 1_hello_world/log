@@ -1,0 +1,4 @@
+helloworld.cpp: In function ‘int main()’:
+helloworld.cpp:9:5: error: ‘d’ was not declared in this scope
+    9 |     d
+      |     ^
